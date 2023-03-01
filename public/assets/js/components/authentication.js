@@ -1,4 +1,4 @@
-let baseUrl = 'https://onlineauctionsystem-production.up.railway.app/';
+let baseUrl = 'https://onlineauctionsystem-production.up.railway.app';
 
 const authenticateUser = async (login_email, login_password) => {
     let data = {

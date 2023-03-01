@@ -1,4 +1,4 @@
-let baseUrl = 'https://onlineauctionsystem-production.up.railway.app/';
+let baseUrl = 'https://onlineauctionsystem-production.up.railway.app';
 let imgUrl = null;
 const getUserProfile = async () => {
     let userData = localStorage.getItem('userData');
