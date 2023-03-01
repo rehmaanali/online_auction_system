@@ -1,4 +1,4 @@
-let baseUrl = 'http://localhost:3000';
+let baseUrl = 'https://onlineauctionsystem-production.up.railway.app/';
 
 const getMyPurchases = async () => {
     let userData = localStorage.getItem('userData');
